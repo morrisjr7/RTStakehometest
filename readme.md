@@ -1,6 +1,6 @@
 #At Home Coding Exercises
 
-**#1**   integerabovebelow.py which accepts a single positional integer argument and prints the elements above and below it in the file. Also, accepts two optional keyword arguments where a custom array can be used and a flag --include_equal which prints the number of values equal to the target integer in the array.
+**#1**   integerabovebelow.py which accepts a single positional integer argument and prints the count of elements above and below it in the file. Also, accepts two optional keyword arguments where a custom array can be used and a flag --include_equal which prints the number of values equal to the target integer in the array.
 
 e.g. : python integerabovebelow.py 6
 
